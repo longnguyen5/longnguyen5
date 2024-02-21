@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @longnguyen5
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nguyntnlong12@gmail.com
 
